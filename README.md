@@ -18,7 +18,12 @@ Hello there! I'm Shubham, aka **spacecoderinspace**, and I’m passionate about 
 
 ## 🌟 Featured Projects
 Here are a few projects I'm proud of:
-- **[Not A project But just to help you educate yourself on c++ ]([https://github.com/spacecoderinspace/project1](https://github.com/spacecoderinspace/C-codes-and-concepts))**: Brief description (e.g., "C++ codes and concepts")
+- # C++ Codes and Concepts
+
+**[Not a Project, But Just to Help You Educate Yourself on C++](https://github.com/spacecoderinspace/C-codes-and-concepts)**: Brief description (e.g., "C++ codes and concepts").
+
+This repository contains various C++ programs and concepts aimed at helping you understand the fundamentals of C++ programming. Feel free to explore and learn!
+
 - **[Project 2 Name](https://github.com/spacecoderinspace/project2)**: Brief description (e.g., "A C++ program solving ABC problem.")
 
 ---
