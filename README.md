@@ -18,7 +18,7 @@ Hello there! I'm Shubham, aka **spacecoderinspace**, and I’m passionate about 
 
 ## 🌟 Featured Projects
 Here are a few projects I'm proud of:
-- **[Project 1 Name](https://github.com/spacecoderinspace/project1)**: Brief description (e.g., "A Python-based tool for XYZ.")
+- **[Not A project But just to help you educate yourself on c++ ]([https://github.com/spacecoderinspace/project1](https://github.com/spacecoderinspace/C-codes-and-concepts))**: Brief description (e.g., "C++ codes and concepts")
 - **[Project 2 Name](https://github.com/spacecoderinspace/project2)**: Brief description (e.g., "A C++ program solving ABC problem.")
 
 ---
