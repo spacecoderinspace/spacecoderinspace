@@ -24,7 +24,7 @@ Here are a few projects I'm proud of:
 
 This repository contains various C++ programs and concepts aimed at helping you understand the fundamentals of C++ programming. Feel free to explore and learn!
 
-- **[Project 2 Name](https://github.com/spacecoderinspace/project2)**: Brief description (e.g., "A C++ program solving ABC problem.")
+- **[Multiple projects](https://github.com/spacecoderinspace/Cpp-Projects)**: Brief description (e.g., "Multiple C++ Projects coded and Explained").
 
 ---
 
